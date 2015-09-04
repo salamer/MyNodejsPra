@@ -1,0 +1,15 @@
+{
+  "name": "aljun",
+  "version": "1.0.0",
+  "description": "= =+",
+  "main": "80",
+  "scripts": {
+    "test": "runserver"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.1",
+    "utility": "^1.4.0"
+  }
+}
